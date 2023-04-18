@@ -1347,11 +1347,6 @@ html {
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity));
   }
-
-  .dark\:ring-gray-400 {
-    --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(156 163 175 / var(--tw-ring-opacity));
-  }
 }
 
 @media (min-width: 640px) {
